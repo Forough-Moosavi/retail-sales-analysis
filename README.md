@@ -13,7 +13,7 @@ retail-sales-analysis/
 ├── data/
 │   ├── raw/
 │   │   └── retail_sales_300rows.csv
-│   └── cleaned/
+│   
 │
 ├── excel/
 │   └── sales_analysis.xlsx
@@ -108,6 +108,13 @@ Reveals highest and lowest selling products.
 📸 Screenshot: `screenshots/powerbi_dashboard.png`
 
 ---
+
+## How to use this project
+
+1. Download `data/raw/retail_sales_300rows.csv` and `excel/sales_analysis.xlsx`.
+2. Open `sales_analysis.xlsx` in Excel to see the pivot tables.
+3. Open `powerbi/retail-sales-dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.
+
 
 ## 💡 Key Insights
 
